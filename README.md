@@ -3,8 +3,9 @@ Build a machine learning model using "decision Tree regressor" on Zameen.com's '
 
 GUI:
 
+![proof](https://user-images.githubusercontent.com/85974328/171637114-b6698ca0-c4ac-47fd-aa1b-2e1c2139394b.png)
 
-![GUI](https://user-images.githubusercontent.com/85974328/171631676-7a4d4e16-20a8-4a72-bf47-df70ff887fad.png)
+
 
 # DATASET
 After searching from various resources online, I found a dataset available provided by Zameen.com. I extracted data for Lahore city of pakistan. The selection of this dataset was purely based on the need. The link for the Dataset
@@ -24,5 +25,5 @@ Y = prediction(price)
 
 
 
-The accuracy for decision tree model gave about 94.08% and it was maximum accuracy...
+The accuracy for decision tree model gave about 90.08% and it was maximum accuracy...
 
