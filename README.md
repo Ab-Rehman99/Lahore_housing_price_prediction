@@ -1,0 +1,2 @@
+# Lahore_housing_price_prediction
+Build a machine learning model using "decision Tree regressor" on Zameen.com's 'Property Data Pakistan' dataset from kaggle. Then build a Web application using Python flask server (Backend) that uses the above model to do the http requests. Then built simple frontend using HTML,CSS and java-script.
